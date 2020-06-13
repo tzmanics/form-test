@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-scully-blog-example"
+    }
+  },
+  "defaultProject": "angular-scully-blog-example",
+  "cli": {
+    "analytics": "9b7217ae-559a-4516-b4a1-4308eb1d6fde"
+  }
 }
